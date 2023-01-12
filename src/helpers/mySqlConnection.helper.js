@@ -17,11 +17,11 @@ var con = mysql.createConnection(mysqlConfig);
 // Creates the connection to the DB
 con.connect(function(err) {
     if (err) throw err;
-    console.log('Connected to MySQL Server!');
+    console.log('Connected to MySQL Server');
 });
 
 // Closes the connection to the DB
 con.end(function(err) {
     if (err) throw err;
-    console.log('Closed connected to MySQL Server!');
+    console.log('Closed connected to MySQL Server');
 });
