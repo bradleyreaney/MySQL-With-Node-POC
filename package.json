@@ -1,0 +1,27 @@
+{
+  "name": "mysql-with-node-poc",
+  "version": "1.0.0",
+  "description": "POC showing communicating with a MySQL DB using Node.",
+  "main": "./src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bradleyreaney/MySQL-With-Node-POC.git"
+  },
+  "author": "Brad Reaney",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bradleyreaney/MySQL-With-Node-POC/issues"
+  },
+  "homepage": "https://github.com/bradleyreaney/MySQL-With-Node-POC#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "mysql": "^2.18.1"
+  },
+  "type": "module",
+  "devDependencies": {
+    "eslint": "^8.31.0"
+  }
+}

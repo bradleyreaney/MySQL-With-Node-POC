@@ -1,0 +1,18 @@
+<exampleResponse>
+    <id>1</id>
+    <panId>01</panId>
+    <name>Test One</name>
+    <pan>11112222333344445555</pan>
+</exampleResponse>
+<exampleResponse>
+    <id>2</id>
+    <panId>02</panId>
+    <name>Test Two</name>
+    <pan>11112222333344445555</pan>
+</exampleResponse>
+<exampleResponse>
+    <id>3</id>
+    <panId>03</panId>
+    <name>Test Three</name>
+    <pan>11112222333344445555</pan>
+</exampleResponse>
